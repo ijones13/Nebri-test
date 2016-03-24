@@ -178,3 +178,14 @@ nav.navbar-lower{
 .caps {
 	text-transform: uppercase;
 }
+
+/********** Newsletter **********/
+
+.container-fluid.newsletter {
+	background-color: #1177BB;
+	margin: 20px 0px 0px 0px;
+}
+
+input#exampleInputEmail1 {
+	border-radius: 0px;
+}
