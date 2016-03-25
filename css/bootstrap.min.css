@@ -8,7 +8,6 @@
 /***************** CUSTOM CSS *****************/
 
 /* Colors
-
 Blue #1177bb
 Light blue #0cb5f5
 orange #faaa24
@@ -194,6 +193,7 @@ nav.navbar-lower{
 .row.logos {
 	padding: 0px 50px;
 }
+
 /********** Newsletter **********/
 
 .container-fluid.newsletter, .container-fluid.featured {
